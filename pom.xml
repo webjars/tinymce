@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>tinymce</artifactId>
-    <version>5.0.9</version>
+    <version>5.0.10-SNAPSHOT</version>
     <name>TinyMCE</name>
     <description>WebJar for TinyMCE</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/tinymce</url>
         <connection>scm:git:https://github.com/webjars/tinymce.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/tinymce.git</developerConnection>
-        <tag>tinymce-5.0.9</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
