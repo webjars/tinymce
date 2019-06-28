@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>tinymce</artifactId>
-    <version>4.7.10-SNAPSHOT</version>
+    <version>5.0.9-SNAPSHOT</version>
     <name>TinyMCE</name>
     <description>WebJar for TinyMCE</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>4.7.9</upstream.version>
+        <upstream.version>5.0.9</upstream.version>
         <upstream.url>http://download.ephox.com/tinymce/community/tinymce_${upstream.version}.zip</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${project.version}</destDir>
         <requirejs>
